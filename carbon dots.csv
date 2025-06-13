@@ -1,0 +1,208 @@
+PlantName,part,Family,Extraction Solvent,Particle size,Zeta potential,Normal  cells (N)/cancer cells ? C?,Human(H)/Animal(A) cells,Cell  Lines,Cell viability Assay,Exposure Dose,% of cell viability,Exposure time
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,MTT,20,66.9,12
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,MTT,40,39.5,12
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,MTT,60,16.4,12
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,MTT,80,18.9,12
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,Annexin V,20,99.9,12
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,Annexin V,40,90.5,12
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,Annexin V,60,81.9,12
+Alcea,leaf,Malvaceae,aqueous,3,-17.8,C,H,4T1 ,Annexin V,80,60.5,12
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,MCF-7,MTT,1.25,24.9,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,MCF-7,MTT,2.5,29.5,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,MCF-7,MTT,5,33.6,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,MCF-7,MTT,10,23.5,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,PC3,MTT,2.5,55,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,PC3,MTT,5,50,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,PC3,MTT,7.5,49.9,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,PC3,MTT,10,48.6,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,HT-29,MTT,1.5,105,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,HT-29,MTT,2.5,109.9,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,HT-29,MTT,5,99.9,24
+Walnut Oil,,Juglandaceae,organic,12.3,,C,H,HT-29,MTT,10,85.5,24
+cinnamon,,Lauraceae,aqueous,3.4,-16,C,H,LN229 ,PrestoBlue,500,73.9,24
+cinnamon,,Lauraceae,aqueous,3.4,-16,C,H,LN229 ,PrestoBlue,1000,70.5,24
+cinnamon,,Lauraceae,aqueous,3.4,-16,C,H,LN229 ,PrestoBlue,1500,69.9,24
+cinnamon,,Lauraceae,aqueous,3.4,-16,C,H,LN229 ,PrestoBlue,2000,69,24
+red chilli,,Solanaceae,aqueous,3.1,-32.9,C,H,LN229 ,PrestoBlue,50,87.5,24
+red chilli,,Solanaceae,aqueous,3.1,-32.9,C,H,LN229 ,PrestoBlue,500,63.6,24
+red chilli,,Solanaceae,aqueous,3.1,-32.9,C,H,LN229 ,PrestoBlue,100,69.9,24
+red chilli,,Solanaceae,aqueous,3.1,-32.9,C,H,LN229 ,PrestoBlue,2000,59.9,24
+turmeric,,Zingiberaceae,aqueous,4.3,-16.3,C,H,LN229,PrestoBlue,50,80,24
+turmeric,,Zingiberaceae,aqueous,4.3,-16.3,C,H,LN229,PrestoBlue,500,63.9,24
+turmeric,,Zingiberaceae,aqueous,4.3,-16.3,C,H,LN229,PrestoBlue,1000,67.5,24
+turmeric,,Zingiberaceae,aqueous,4.3,-16.3,C,H,LN229,PrestoBlue,1500,65,24
+turmeric,,Zingiberaceae,aqueous,4.3,-16.3,C,H,LN229,PrestoBlue,2000,64.9,24
+black pepper,,Piperaceae,aqueous,3.5,-24.2,C,H,LN229 ,PrestoBlue,50,78.9,24
+black pepper,,Piperaceae,aqueous,3.5,-24.2,C,H,LN229,PrestoBlue,500,55.6,24
+black pepper,,Piperaceae,aqueous,3.5,-24.2,C,H,LN229,PrestoBlue,1000,41.9,24
+black pepper,,Piperaceae,aqueous,3.5,-24.2,C,H,LN229,PrestoBlue,2000,29.5,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,NIH 3T3,MTT,25,77.5,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,NIH 3T3,MTT,100,75.9,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,NIH 3T3,MTT,200,64.5,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,NIH 3T3,MTT,400,55.6,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,NIH 3T3,MTT,500,54.9,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,A549,MTT,25,90,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,A549,MTT,100,87.5,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,A549,MTT,200,70,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,A549,MTT,400,58.9,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,A549,MTT,500,24.9,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,HCT-15,MTT,50,82.8,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,HCT-15,MTT,100,80.9,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,HCT-15,MTT,200,60.1,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,HCT-15,MTT,400,57.5,24
+Curcumin,,Zingiberaceae,aqueous,4.5,-12,C,H,HCT-15,MTT,500,17.8,24
+Aloe barbadensis Miller,leaf,Liliaceae,aqueous,5,,C,H,MCF-7,MTT,20,77.9,24
+Aloe barbadensis Miller,leaf,Liliaceae,aqueous,5,,C,H,MCF-7,MTT,40,55.1,24
+Aloe barbadensis Miller,leaf,Liliaceae,aqueous,5,,C,H,MCF-7,MTT,60,55.1,24
+Aloe barbadensis Miller,leaf,Liliaceae,aqueous,5,,C,H,MCF-7,MTT,80,8.5,24
+Aloe barbadensis Miller,leaf,Liliaceae,aqueous,5,,C,H,MCF-7,MTT,100,20,24
+Plectranthus amboinicus (Mexican Mint),leaf,Lamiaceae,aqueous,2.43,,C,H,MCF-7,MTT,25,88.9,24
+Plectranthus amboinicus (Mexican Mint),leaf,Lamiaceae,aqueous,2.43,,C,H,MCF-7,MTT,50,53.5,24
+Plectranthus amboinicus (Mexican Mint),leaf,Lamiaceae,aqueous,2.43,,C,H,MCF-7,MTT,75,33.1,24
+Plectranthus amboinicus (Mexican Mint),leaf,Lamiaceae,aqueous,2.43,,C,H,MCF-7,MTT,100,28.4,24
+Brassica oleracea (red cabbage),leaf,Brassicaceae,aqueous,3,-10.17,C,H,SH-SY5Y,CCK-8,62.5,99.9,24
+Brassica oleracea (red cabbage),leaf,Brassicaceae,aqueous,3,-10.17,C,H,SH-SY5Y,CCK-8,125,99.5,24
+Brassica oleracea (red cabbage),leaf,Brassicaceae,aqueous,3,-10.17,C,H,SH-SY5Y,CCK-8,250,99.1,24
+Brassica oleracea (red cabbage),leaf,Brassicaceae,aqueous,3,-10.17,C,H,SH-SY5Y,CCK-8,500,98.9,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,N,H,L929,PrestoBlue,62,97.9,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,N,H,L929,PrestoBlue,125,83.1,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,N,H,L929,PrestoBlue,250,98.7,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,N,H,L929,PrestoBlue,500,104.8,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,N,H,L929,PrestoBlue,1000,79.2,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,C,H,HeLa,PrestoBlue,62,129.9,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,C,H,HeLa,PrestoBlue,125,119.5,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,C,H,HeLa,PrestoBlue,250,131.5,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,C,H,HeLa,PrestoBlue,500,84.1,24
+Wet Olive Pomace,,Oleaceae,aqueous,1.7,,C,H,HeLa,PrestoBlue,1000,61.2,24
+Osmanthus fragrans,flower,Oleaceae,aqueous,2.23,,C,H,A549,MTT,100,101.5,24
+Osmanthus fragrans,flower,Oleaceae,aqueous,2.23,,C,H,A549,MTT,200,99.8,24
+Osmanthus fragrans,flower,Oleaceae,aqueous,2.23,,C,H,A549,MTT,300,100,24
+Osmanthus fragrans,flower,Oleaceae,aqueous,2.23,,C,H,A549,MTT,500,98.6,24
+Osmanthus fragrans,flower,Oleaceae,aqueous,2.23,,C,H,A549,MTT,1000,97.9,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,L-929,MTT,10,99.9,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,L-929,MTT,20,99.6,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,L-929,MTT,30,97.1,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,L-929,MTT,40,90,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,L-929,MTT,50,89.5,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,MCF-7,MTT,10,100.5,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,MCF-7,MTT,20,99.2,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,MCF-7,MTT,30,89.1,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,MCF-7,MTT,40,87.5,24
+Hylocereus undatus,fruit,Cactaceae,aqueous,2.86,,C,H,MCF-7,MTT,50,82.8,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,SiHa,MTT,5,99.9,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,SiHa,MTT,10,94.2,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,SiHa,MTT,20,85.2,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,SiHa,MTT,40,69.7,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,SiHa,MTT,80,60.1,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,SiHa,MTT,150,59.6,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,B16F10,MTT,10,92.8,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,B16F10,MTT,20,77.9,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,B16F10,MTT,40,64.5,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,B16F10,MTT,80,56.1,24
+Piper longum,,Piperaceae,Organic,2.835,-5.21,C,H,B16F10,MTT,150,47.9,24
+lychee,Fruit and bark,Sapindaceae,Organic,3.13,-31,C,H,A375,MTT,200,97.5,24
+lychee,Fruit and bark,Sapindaceae,Organic,3.13,-31,C,H,A375,MTT,400,93.2,24
+lychee,Fruit and bark,Sapindaceae,Organic,3.13,-31,C,H,A375,MTT,600,89.2,24
+lychee,Fruit and bark,Sapindaceae,Organic,3.13,-31,C,H,A375,MTT,800,82.7,24
+lychee,Fruit and bark,Sapindaceae,Organic,3.13,-31,C,H,A375,MTT,1000,81,24
+Garlic,cloves,Amaryllidaceae,aqueous,11,,C,H,A549,MTT,100,96.8,24
+Garlic,cloves,Amaryllidaceae,aqueous,11,,C,H,A549,MTT,250,92.4,24
+Garlic,cloves,Amaryllidaceae,aqueous,11,,C,H,A549,MTT,500,98.6,24
+Garlic,cloves,Amaryllidaceae,aqueous,11,,C,H,A549,MTT,1000,88.1,24
+Peanut,shell,Fabaceae,aqueous,1.62,,C,H,HepG2,MTT,200,99.9,24
+Peanut,shell,Fabaceae,aqueous,1.62,,C,H,HepG2,MTT,400,98.1,24
+Peanut,shell,Fabaceae,aqueous,1.62,,C,H,HepG2,MTT,600,95.7,24
+Peanut,shell,Fabaceae,aqueous,1.62,,C,H,HepG2,MTT,800,92.8,24
+Peanut,shell,Fabaceae,aqueous,1.62,,C,H,HepG2,MTT,1000,89.6,24
+Peanut,shell,Fabaceae,aqueous,1.62,,C,H,HepG2,MTT,1200,88.2,24
+Grape seed extract,,Vitaceae,Organic,40,-7,N,H,L929,MTT,10,105.6,24
+Grape seed extract,,Vitaceae,Organic,40,-7,N,H,L929,MTT,20,109.5,24
+Grape seed extract,,Vitaceae,Organic,40,-7,N,H,L929,MTT,30,104.9,24
+Grape seed extract,,Vitaceae,Organic,40,-7,N,H,L929,MTT,40,100.9,24
+Grape seed extract,,Vitaceae,Organic,40,-7,N,H,L929,MTT,50,99.9,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,N,H,L929,MTT,5,100,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,N,H,L929,MTT,10,98.5,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,N,H,L929,MTT,15,97.3,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,N,H,L929,MTT,20,96.1,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,N,H,L929,MTT,25,95,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,C,H,MCF7,MTT,5,97.5,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,C,H,MCF7,MTT,10,96.2,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,C,H,MCF7,MTT,15,95.1,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,C,H,MCF7,MTT,20,93.9,24
+Actinidia deliciosa,fruit,Actinidiaceae ,Organic,3.59,,C,H,MCF7,MTT,25,88.9,24
+Hongcaitai,fruit,Brassicaceae,Organic,1.9,,C,H,HepG2,MTT,5,0.95,24
+Hongcaitai,fruit,Brassicaceae,Organic,1.9,,C,H,HepG2,MTT,10,0.96,24
+Hongcaitai,fruit,Brassicaceae,Organic,1.9,,C,H,HepG2,MTT,50,0.98,24
+Hongcaitai,fruit,Brassicaceae,Organic,1.9,,C,H,HepG2,MTT,100,0.99,24
+Hongcaitai,fruit,Brassicaceae,Organic,1.9,,C,H,HepG2,MTT,500,0.91,24
+Hongcaitai,fruit,Brassicaceae,Organic,2.6,,C,H,HepG2,MTT,5,0.97,24
+Hongcaitai,fruit,Brassicaceae,Organic,2.6,,C,H,HepG2,MTT,10,0.98,24
+Hongcaitai,fruit,Brassicaceae,Organic,2.6,,C,H,HepG2,MTT,50,0.99,24
+Hongcaitai,fruit,Brassicaceae,Organic,2.6,,C,H,HepG2,MTT,100,1.01,24
+Hongcaitai,fruit,Brassicaceae,Organic,2.6,,C,H,HepG2,MTT,500,0.85,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HeLa,MTT,25,115,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HeLa,MTT,50,165.5,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HeLa,MTT,100,110.9,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HeLa,MTT,150,75,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HeLa,MTT,200,42.5,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HepG2,MTT,25,175,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HepG2,MTT,50,165.5,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HepG2,MTT,100,139.9,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HepG2,MTT,150,72.9,24
+sweet potato,,Convolvulaceae,aqueous,3.39,,C,H,HepG2,MTT,200,60.1,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,SKBR3,MTT,320,100,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,SKBR3,MTT,640,98.9,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,SKBR3,MTT,1280,97.5,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,SKBR3,MTT,320,100,48
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,SKBR3,MTT,640,101.9,48
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,SKBR3,MTT,1280,102.5,48
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,160,4.5,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,320,3.9,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,640,3.1,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,1280,2.5,24
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,160,5.4,48
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,320,5.1,48
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,640,4.9,48
+orange,fruit,Rutaceae,Organic,1.5,-12.8,C,H,NIH3T3,MTT,1280,4.5,48
+Prunus mume,fruit,Rosaceae,Organic,9,,C,H,MDA-MB-231,CCK-8,5,97.5,24
+Prunus mume,fruit,Rosaceae,Organic,9,,C,H,MDA-MB-231,CCK-8,10,96.9,24
+Prunus mume,fruit,Rosaceae,Organic,9,,C,H,MDA-MB-231,CCK-8,15,97.2,24
+Prunus mume,fruit,Rosaceae,Organic,9,,C,H,MDA-MB-231,CCK-8,20,95.9,24
+Prunus mume,fruit,Rosaceae,Organic,9,,C,H,MDA-MB-231,CCK-8,25,96,24
+Prunus persica,fruit,Rosaceae,Organic,8,,C,H,MDA-MB-231,CCK-8,5,99.1,24
+Prunus persica,fruit,Rosaceae,Organic,8,,C,H,MDA-MB-231,CCK-8,10,98.6,24
+Prunus persica,fruit,Rosaceae,Organic,8,,C,H,MDA-MB-231,CCK-8,15,97.5,24
+Prunus persica,fruit,Rosaceae,Organic,8,,C,H,MDA-MB-231,CCK-8,20,97.2,24
+carrot,,Apiaceae,Organic,5.5,,C,H,HaCaT,MTT,20,98.1,24
+carrot,,Apiaceae,Organic,5.5,,C,H,HaCaT,MTT,100,95.9,24
+carrot,,Apiaceae,Organic,5.5,,C,H,HaCaT,MTT,300,93.5,24
+carrot,,Apiaceae,Organic,5.5,,C,H,HaCaT,MTT,500,90.1,24
+carrot,,Apiaceae,Organic,5.5,,C,H,HaCaT,MTT,700,83.5,24
+carrot,,Apiaceae,Organic,5.5,,C,H,HaCaT,MTT,1000,78.9,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HepG2,MTT,50,98.5,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HepG2,MTT,100,101.2,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HepG2,MTT,200,97.9,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HepG2,MTT,400,99.2,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HepG2,MTT,500,99.7,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,A549,MTT,50,99.2,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,A549,MTT,100,98.7,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,A549,MTT,200,98.5,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,A549,MTT,400,98,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,A549,MTT,500,102.6,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HeLa,MTT,50,97.5,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HeLa,MTT,100,100,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HeLa,MTT,200,98.2,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HeLa,MTT,400,98.9,24
+Abelmoschus manihot,flowers,Malvaceae,aqueous,9,-10.6,C,H,HeLa,MTT,500,99.1,24
+gingko,fruit,Ginkgoaceae,aqueous,3.81,,C,H,HeLa,MTT,2000,100,24
+jackfruit,seeds,Moraceae,aqueous,5 nm,-43.2 mV,C,H,A549,MTT,2000,100,48
+Trapa bispinosa,peel,Trapaceae,aqueous,8 nm,,C,A,MDCK,MTT,1,100,48
+Trapa bispinosa,peel,Trapaceae,aqueous,9 nm,,C,A,MDCK,MTT,2,97.4,48
+Trapa bispinosa,peel,Trapaceae,aqueous,10 nm,,C,A,MDCK,MTT,2.5,94.9,48
+Trapa bispinosa,peel,Trapaceae,aqueous,11 nm,,C,A,MDCK,MTT,3,90,48
+Trapa bispinosa,peel,Trapaceae,aqueous,12 nm,,C,A,MDCK,MTT,4,80,48
+Prunus persica,gel,Rosaceae,aqueous,3 nm,-10 mV,N,H,293T,MTT,0,100.1,24
+Prunus persica,gel,Rosaceae,aqueous,3 nm,-10 mV,N,H,293T,MTT,50,99.5,24
+Prunus persica,gel,Rosaceae,aqueous,3 nm,-10 mV,N,H,293T,MTT,100,98.9,24
+Prunus persica,gel,Rosaceae,aqueous,3 nm,-10 mV,N,H,293T,MTT,200,97.1,24
+Prunus persica,gel,Rosaceae,aqueous,3 nm,-10 mV,N,H,293T,MTT,400,96.9,24
