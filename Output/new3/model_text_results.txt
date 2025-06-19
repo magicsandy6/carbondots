@@ -1,0 +1,102 @@
+
+=== XGBoost (With Family) ===
+Accuracy: 0.843
+Recall: 0.560
+Precision: 0.636
+F1 Score: 0.596
+AUC-PR: 0.447
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.92      0.90        96
+           1       0.64      0.56      0.60        25
+
+    accuracy                           0.84       121
+   macro avg       0.76      0.74      0.75       121
+weighted avg       0.84      0.84      0.84       121
+
+
+=== AdaBoost (With Family) ===
+Accuracy: 0.868
+Recall: 0.720
+Precision: 0.667
+F1 Score: 0.692
+AUC-PR: 0.538
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92        96
+           1       0.67      0.72      0.69        25
+
+    accuracy                           0.87       121
+   macro avg       0.80      0.81      0.80       121
+weighted avg       0.87      0.87      0.87       121
+
+
+=== LightGBM (With Family) ===
+Accuracy: 0.860
+Recall: 0.720
+Precision: 0.643
+F1 Score: 0.679
+AUC-PR: 0.521
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.90      0.91        96
+           1       0.64      0.72      0.68        25
+
+    accuracy                           0.86       121
+   macro avg       0.78      0.81      0.79       121
+weighted avg       0.87      0.86      0.86       121
+
+
+=== XGBoost (Without Family) ===
+Accuracy: 0.860
+Recall: 0.560
+Precision: 0.700
+F1 Score: 0.622
+AUC-PR: 0.483
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.94      0.91        96
+           1       0.70      0.56      0.62        25
+
+    accuracy                           0.86       121
+   macro avg       0.80      0.75      0.77       121
+weighted avg       0.85      0.86      0.85       121
+
+
+=== AdaBoost (Without Family) ===
+Accuracy: 0.868
+Recall: 0.760
+Precision: 0.655
+F1 Score: 0.704
+AUC-PR: 0.548
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.90      0.91        96
+           1       0.66      0.76      0.70        25
+
+    accuracy                           0.87       121
+   macro avg       0.79      0.83      0.81       121
+weighted avg       0.88      0.87      0.87       121
+
+
+=== LightGBM (Without Family) ===
+Accuracy: 0.893
+Recall: 0.760
+Precision: 0.731
+F1 Score: 0.745
+AUC-PR: 0.605
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.93        96
+           1       0.73      0.76      0.75        25
+
+    accuracy                           0.89       121
+   macro avg       0.83      0.84      0.84       121
+weighted avg       0.89      0.89      0.89       121
+
